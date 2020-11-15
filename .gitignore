@@ -16,7 +16,7 @@ kernel/kernel
 user/usys.S
 .gdbinit
 myapi.key
-*-handin.tar.gz
+*-handin.tar
 xv6.out*
 .vagrant/
 submissions/
