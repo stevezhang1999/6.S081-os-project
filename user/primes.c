@@ -61,6 +61,7 @@ main(void) {
       write(1, &i, sizeof(int));
     }
     close(1);
+    close(0);
     wait(0);
   }
   exit(0);
